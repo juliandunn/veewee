@@ -1,5 +1,5 @@
 Veewee::Definition.declare({
-  :cpu_count => '1', :memory_size=> '1024',
+  :cpu_count => '1', :memory_size=> '1536',
   :disk_size => '10140', :disk_format => 'VDI', :hostiocache => 'off',
   :os_type_id => 'FreeBSD_64',
   :iso_file => "mfsbsd-9.1-RELEASE-amd64.iso",
